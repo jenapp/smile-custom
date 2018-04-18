@@ -16,7 +16,7 @@ GraphQL queries access not just the properties of one resource but also smoothly
 
 .. toctree:: Table of Contents
 
-   GraphQL and Smile
+   GraphQL-and-Smile
      Subtitle
-   Getting started with GraphQL
-   GraphQL links
+   Getting-started-with-GraphQL
+   GraphQL-links
