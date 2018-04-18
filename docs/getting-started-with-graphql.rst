@@ -1,1 +1,1 @@
-Gettitn started with GraphQL
+Getting started with GraphQL
