@@ -1,3 +1,6 @@
+=====
+Smile
+=====
 
 .. toctree::
   :caption: GraphQL
