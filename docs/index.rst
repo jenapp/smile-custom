@@ -14,7 +14,7 @@ Get many resources in a single request
 GraphQL queries access not just the properties of one resource but also smoothly follow references between them. While typical REST APIs require loading from multiple URLs, GraphQL APIs get all the data your app needs in a single request. Apps using GraphQL can be quick even on slow mobile network connections.
 
 
-.. toctree:: Table of Contents
+.. toctree::
 
    GraphQL and Smile <graphql-and-smile>
      Subtitle <subtitle>
