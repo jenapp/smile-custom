@@ -14,3 +14,8 @@
 
    Another topic <topic2/another>
    Another again <topic2/another-again>
+
+.. toctree::
+  :caption: And another?
+  
+  topic3/and-another
