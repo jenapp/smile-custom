@@ -1,5 +1,6 @@
 
 .. toctree::
+  :caption: GrapghQL
 
    GrapgQL <graphql-intro>
      GraphQL and Smile <graphql-and-smile>
