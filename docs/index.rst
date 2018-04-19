@@ -1,6 +1,7 @@
 
 .. toctree::
   :caption: GraphQL
+  :hidden:
 
    GraphQL <graphql/graphql-intro>
      GraphQL and Smile <graphql/graphql-and-smile>
@@ -11,11 +12,13 @@
    
 .. toctree::
   :caption: Another topic
+  :hidden:
 
    Another topic <topic2/another>
    Another again <topic2/another-again>
 
 .. toctree::
   :caption: And another?
+  :hidden:
   
   topic3/and-another
