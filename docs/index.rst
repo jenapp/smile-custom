@@ -2,7 +2,7 @@
 .. toctree::
   :caption: GrapghQL
 
-   GrapgQL <graphql-intro>
+   GraphQL <graphql-intro>
      GraphQL and Smile <graphql-and-smile>
        Subtitle <subtitle>
      Getting started with GraphQGL <getting-started-with-graphql>
