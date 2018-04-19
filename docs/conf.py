@@ -13,3 +13,6 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
+
+# The master toctree document.
+master_doc = 'index'
