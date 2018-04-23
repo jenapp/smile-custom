@@ -17,6 +17,7 @@ Welcome to Smile!
 .. toctree::
   :caption: Another topic
   :hidden:
+  :numbered:
 
    Another topic <topic2/another>
    Another again <topic2/another-again>
